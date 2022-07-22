@@ -1,0 +1,9 @@
+.details{
+    border: 0.2em;
+    border-style: dashed;
+    backdrop-filter: blur(10px);
+}
+button{
+    /* background-color: rgb(196, 247, 247); */
+    margin-top: 2em;
+}
